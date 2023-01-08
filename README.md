@@ -4,8 +4,6 @@
 - 👯 I’m looking to collaborate on C++ projects.
 - 😄 Pronouns: He/His.
 
-<br>
-
 ## 💻 Tech
 
 ### Languages/Frameworks
@@ -38,15 +36,10 @@
 
 <img src="https://img.shields.io/badge/JENKINS%20-%23161616.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
 
-<br>
-<br>
-
 ## 📜 My Certifications
 
 - [AWS Certified Developer – Associate](https://www.youracclaim.com/badges/1f70f1af-95f8-4934-b5b5-dd4e197b2bbc/public_url)
 - [Udacity C++ Developer Nanodegree](https://confirm.udacity.com/3P5XRFDW)
-
-<br>
 
 ## 🗠 Stats
 
