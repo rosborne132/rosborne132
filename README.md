@@ -1,8 +1,11 @@
 ## 👨🏻‍💻 About Me
 
-- 🌱 I’m currently learning C++.
-- 👯 I’m looking to collaborate on C++ projects.
+- 🌱 I’m currently learning system design.
 - 😄 Pronouns: He/His.
+
+## Study progress
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65368572035e8d1be72b54c6?variant=dark)](https://roadmap.sh)
 
 ## 💻 Tech
 
